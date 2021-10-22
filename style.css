@@ -1,0 +1,32 @@
+*{
+ background-color:powerred;
+ }
+ img {
+ border: 2px solid #ddd;
+ border-radius: 9px;
+ padding 5px;
+ width:400px;
+ }
+ h1
+{
+ color:blue;
+ font-family:calibri;
+ align:center;
+}
+div.mail{
+background-color:salmon;
+font-family:Times new roman;
+font-size:20px;
+padding:10px;
+color:white;
+}
+a.mail{
+	color:white;
+}
+div.portfolio{
+background-color:salmon;
+font-family:Times new roman;
+font-size:20px;
+padding:10px;
+color:white;
+}
